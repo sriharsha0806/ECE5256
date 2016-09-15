@@ -2,4 +2,6 @@
 Image Processing 
 Hi, these are the programs i implemented using opencv and python
 Textbook: Rafael C. Gonzalez | Ricahard E. Woods
+These are some basic functions for learning Image Processing
+
 
